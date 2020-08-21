@@ -1,1 +1,14 @@
- 
+# Labs:
+1. [Sorts, Heap, Binary Search](/term1/sort-heap-binsearch/)
+2. [Stack, Queue, DSU](/term1/stack-queue-dsu/)
+3. [Dynamic programming](/term1/dp/)
+4. [Segment Tree](/term2/segment-tree/)
+5. [Search Tree](/term2/search-tree/)
+6. [Queries in tree](/term2/queries-in-tree/)
+7. [DFS](/term3/dfs)
+8. [Shortest paths, MST](/term3/mst)
+9. [Matching](/term3/matching/)
+10. [Flows](/term3/flows/)
+11. [Strings](/term4/strings/)
+12. [Suffix structures](/term4/suffix/)
+13. [Number theory](/term4/numeric/) 
