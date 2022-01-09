@@ -8,7 +8,7 @@
 7. [DFS](/term3/dfs)
 8. [Shortest paths, MST](/term3/mst)
 9. [Matching](/term3/matching/)
-10. [Flows](/term3/flows/)
+10. [Flows](/term3/flow/)
 11. [Strings](/term4/strings/)
 12. [Suffix structures](/term4/suffix/)
 13. [Number theory](/term4/numeric/) 
